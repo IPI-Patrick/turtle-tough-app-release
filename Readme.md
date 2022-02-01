@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/IPI-Patrick/turtle-tough-app-release/blob/main/logo.png">
+  <img width="200" height="200" src="https://github.com/IPI-Patrick/turtle-tough-app-release/blob/main/icon.png">
 </p>
 
 <h1 align="center">
