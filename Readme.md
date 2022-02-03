@@ -17,7 +17,7 @@ Designed for industrial environments, the Smart Sensor PC Interface is housed in
 # Installation:
 To Install This software, simply download the latest release from [Releases](https://github.com/IPI-Patrick/turtle-tough-app-release/releases/tag/v0.1.19) and run the executable.
 
-***Note:*** *On windows a Windows Defender Smartscreen window may appear. If so, simply click "More Info" then "Run Anyway". This is simply an artifact of the digital signing process and should be fixed shortly.*
+***Note:*** *On windows a Windows Defender Smartscreen window may appear. If so, simply click "More Info" then "Run Anyway". This is simply an artifact of the digital signing process and will be fixed shortly.*
 
 # Basic Usage - Connecting Sensors:
 To connect a sensor to the software, start by opening the software and connecting your Turtle Tough Smart Sensor Communication Hub to your PC via the USB cable, in any order. The software should automatically identify and connect to your Communication Hub.
@@ -60,7 +60,7 @@ Once the calibration is complete your calibration results will be displayed in t
   - **Reminders and Warnings;** Send reminders to calibrate sensors at certain intervals or create triggers to send warnings when sensor readings reach certain thresholds.
 
 
-# Frequently Asked Questions:
+# Troubleshooting:
 
 ### My Communication Hub is Not Connecting ##
 - Older Turtle Tough Smart Sensor Communication Hubs may not have the correct digital signature to be automatically recognised by the software. If this is the case a manual connection can be made to the hub by clicking the "Device Not Appearing Automatically" button. In this menu, select the COM Port that your device is connected to and the correct Modbus settings (by default baud-rate is 19200 and parity is 'Even') then click "Connect". If the settings are correct then you should now be connected to the Communication Hub.
