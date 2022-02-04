@@ -36,30 +36,6 @@ Click 'Begin Calibration' to start calibrating. To calibrate any point simply pl
 Once the calibration is complete your calibration results will be displayed in the 'Print' panel. Click the 'Print Calibration Report' Button to print a report.
 
 
-# Roadmap
-- ## First Official Release
-    - **Live Readings;** Ability to get and display live readings of multiple connected digital Turtle Tough pH sensors on a beautiful, easy to read dashboard.
-    - Basic plotting of live sensor readings for easy diagnostics.
-    - **Easy Connection;** Automatic connection to Turtle Tough Smart Sensor Communication Hub's with fast re-connection of previously connected Turtle Tough Sensors.
-    - **Sensor Scanning;** Easily scan for newly connected sensors with unknown modbus addresses.
-    - **Sensor Configuration;** Ability to configure sensors with their own unique name for easy identification.
-    - Allows all sensor settings to be configured directly from the application.
-    - **Sensor Calibration and Diagnostics;** Simple calibration of all Digital pH sensors with the ability to print calibration reports and remember the results of the last calibration. 
-    - Sensor health score generated via a set of complex heuristics from the last completed calibration. 
-
-- ## Version 1.x
-  - Support for further Turtle Tough Digital Sensor Types.
-  - Support for digital ORP, Conductivity and Dissolved Oxygen Sensors.
-  - Add support for Mac and Linux operating systems.
-  - Add support for multiple languages.
-
-- ## Version 2.0 (Lab Version)
-  - **Plotting Overhaul;** Allow for extensive real-time plotting options, allowing readings to be taken, displayed, saved and exported at the users discretion.
-  -  **Syncing Between computers;** Ability for multiple computers to be running the software simultaneously, sharing sensor readings, information and control between them. 
-  - **Rich Diagnostic History;** Allow storing of much more in depth sensor diagnostic history including calibration results and overall lifespan. 
-  - **Reminders and Warnings;** Send reminders to calibrate sensors at certain intervals or create triggers to send warnings when sensor readings reach certain thresholds.
-
-
 # Troubleshooting:
 
 ### My Communication Hub is Not Connecting ##
